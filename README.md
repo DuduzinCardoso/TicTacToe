@@ -1,2 +1,2 @@
 # TicTacToe
-Um jogo da velha do feito pelo curso Kotlin Basics da Jetbrains Academy 
+Um jogo da velha feito pelo curso Kotlin Basics da Jetbrains Academy 
